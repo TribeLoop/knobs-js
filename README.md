@@ -1,3 +1,4 @@
 # knobs-ts-js
 
-Pure JS lib for creating knobs easily
+JS lib for creating knobs easily.
+No dependecies requiered.
